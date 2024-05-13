@@ -34,3 +34,4 @@ XQ_Option_DDE.advise(f"TXON05C20600.TF-InOutRatio,TotalVolume,Bid",callback = pr
 
 PyWinDDE.WinMSGLoop()
 
+# test 
